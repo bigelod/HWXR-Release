@@ -15,7 +15,7 @@ Thanks to Luboš for his work on [WinlatorXR](https://github.com/lvonasek/Winlat
 
 Thanks to GmoLargey for his testing and tutorial videos!
 
-WinlatorXR API conversion (of the VR conversion, of the original PC version of Halo: Combat Evolved) by Bigelowed
+WinlatorXR API conversion (of the VR conversion by LivingFray, of the original PC version of Halo: Combat Evolved by Gearbox/Microsoft Games) by Bigelowed
 
 # Installation
 
