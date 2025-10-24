@@ -1,5 +1,5 @@
 # HWXR-Release
-Release versions of the PC VR [HWXR mod for Halo CE](https://github.com/bigelod/HaloCEWXR) to be run via WinlatorXR PC containers
+Release versions of the **PC VR** [HWXR mod for Halo CE](https://github.com/bigelod/HaloCEWXR) designed to be **run via WinlatorXR PC containers**
 
 # Credits
 
