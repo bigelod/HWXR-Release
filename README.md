@@ -70,4 +70,4 @@ In addition to the **Wine Mono Installer** in the **System Tools** menu required
 * B - Reload
 * A - Action
 
-[See the full project README](https://github.com/bigelod/HaloCEWXR/master/README.md)
+[See the full project README](https://github.com/bigelod/HaloCEWXR/blob/master/README.md)
