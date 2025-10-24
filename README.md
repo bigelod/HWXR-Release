@@ -5,7 +5,8 @@ Release versions of the PC VR [HWXR mod for Halo CE](https://github.com/bigelod/
 
 Thanks to LivingFray for the awesome Halo CE VR mod, and for sharing its source code with the world.
 
-Additional thanks to these contributors to the LivingFray Halo CE VR mod: 97saundersj, slipperfish, codyherzog, HaMM4R, teddybear082, kyanite-rock, s-ilent, TheKrisSodroski
+Additional thanks to these contributors to the LivingFray Halo CE VR mod: 
+97saundersj, slipperfish, codyherzog, HaMM4R, teddybear082, kyanite-rock, s-ilent, TheKrisSodroski
 
 **Note: This is a Halo CE PC VR mod that makes breaking changes from the parent mod it's based on, please do not spam any of the above developers with requests or issues related to this conversion!**
 
