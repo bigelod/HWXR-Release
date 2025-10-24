@@ -3,7 +3,7 @@ Release versions of the PC VR [HWXR mod for Halo CE](https://github.com/bigelod/
 
 # Credits
 
-Thanks to LivingFray for the awesome Halo CE VR mod, and for sharing its source code with the world.
+Thanks to LivingFray for the awesome [Halo CE VR](https://github.com/LivingFray/HaloCEVR/) mod for SteamVR, and for sharing its source code with the world.
 
 Additional thanks to these contributors to the LivingFray Halo CE VR mod:
 
